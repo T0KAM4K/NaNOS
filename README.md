@@ -1,2 +1,2 @@
 # NaNOS
-NaNOS is Not AN OS
+NaNOS is Not AN Operating System
